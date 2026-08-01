@@ -31,11 +31,11 @@ A simple command-line cafe ordering and billing application written in C.
 ## Sample Run
 Ordering coffee and building the cart:
 
-<img width="418" height="497" alt="image" src="https://github.com/user-attachments/assets/b0d0faba-4f73-4ea6-a94e-9cacea911539" />
+<img width="418" height="497" alt="image"   src="https://github.com/user-attachments/assets/ba90136a-2879-46c4-b35f-b801f1407291" />
 
 Checkout and final bill with GST:
 
-<img width="382" height="499" alt="image" src="https://github.com/user-attachments/assets/ba90136a-2879-46c4-b35f-b801f1407291" />
+<img width="382" height="499" alt="image" src="https://github.com/user-attachments/assets/b0d0faba-4f73-4ea6-a94e-9cacea911539" />
 
 ## Concepts used
 - `switch` statements for menu selection
