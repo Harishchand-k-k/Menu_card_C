@@ -44,7 +44,7 @@ Checkout and final bill with GST:
 
 ## How to compile and run
 ```bash
-gcc Harishchand_k_k.c -o bunk_cafe
+gcc Bunk_cafe.c -o bunk_cafe
 ./bunk_cafe
 ```
 
